@@ -928,5 +928,6 @@ b7ce2d87841585551b082fca6d099622e63b7099e0d8013f687ea1a1dc35c4dc android.hardwar
 537f0bcfaf9d91b3136984f5e85d6ea559771726d6624a1d17c151b9c9f4b2f9 android.hardware.wifi@1.6::IWifiRttControllerEventCallback
 1bac6a7c8136dfb0414fe5639eec115aa2d12927e64a0642a43fb53225f099b2 android.hardware.wifi@1.6::IWifiStaIface
 0a800e010e8eb6eecdfdc96f04fd2ae2f417a79a74a7c0eec3a9f539199bccd4 android.hardware.wifi@1.6::types
+42abd285a4293dadb8c89bc63b90cae2872fbffe90c4517aa3ea4965e8aecff7 android.hardware.graphics.common@1.2::types
 
 # There will be no more HIDL HALs. Use AIDL instead.
